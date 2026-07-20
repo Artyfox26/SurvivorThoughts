@@ -1,0 +1,236 @@
+{
+    "EnableWeatherThoughts": 1,
+    "RainThought_Min": 0.35,
+    "FogThought_Min": 0.45,
+    "WindThought_Min": 8,
+    "StormRain_Min": 0.65,
+    "StormWind_Min": 10,
+    "StormOvercast_Min": 0.9,
+    "WeatherRainMessages": [
+        "The weather is wearing me down.",
+        "This makes every sound harder to trust.",
+        "I need to get out of this weather.",
+        "Bad weather hides bad decisions.",
+        "I should remember this if I live long enough."
+    ],
+    "WeatherFogMessages": [
+        "The weather is wearing me down.",
+        "This makes every sound harder to trust.",
+        "I need to get out of this weather.",
+        "Bad weather hides bad decisions.",
+        "I should remember this if I live long enough."
+    ],
+    "WeatherWindMessages": [
+        "The weather is wearing me down.",
+        "This makes every sound harder to trust.",
+        "I need to get out of this weather.",
+        "Bad weather hides bad decisions.",
+        "I should remember this if I live long enough."
+    ],
+    "WeatherStormMessages": [
+        "The weather is wearing me down.",
+        "This makes every sound harder to trust.",
+        "I need to get out of this weather.",
+        "Bad weather hides bad decisions.",
+        "I should remember this if I live long enough."
+    ],
+    "EnableLocationThoughts": 1,
+    "LocationThoughtCooldownSeconds": 240,
+    "LocationThoughtChance": 0.35,
+    "LocationUseCustomZones": 1,
+    "LocationUseFallbackDetection": 1,
+    "LocationCoastZMax": 3500,
+    "LocationWildernessScanRadius": 80,
+    "LocationWildernessMaxObjects": 8,
+    "LocationZones": [
+        {
+            "Name": "North West Airfield",
+            "Type": "Military",
+            "X": 4620,
+            "Z": 10300,
+            "Radius": 900
+        },
+        {
+            "Name": "Chernogorsk",
+            "Type": "City",
+            "X": 6700,
+            "Z": 2600,
+            "Radius": 900
+        },
+        {
+            "Name": "Elektrozavodsk",
+            "Type": "City",
+            "X": 10400,
+            "Z": 2200,
+            "Radius": 850
+        },
+        {
+            "Name": "Balota Airstrip",
+            "Type": "Military",
+            "X": 4970,
+            "Z": 2450,
+            "Radius": 500
+        }
+    ],
+    "LocationCoastMessages": [
+        "The coast is where everyone starts, and where too many people die.",
+        "I should not stay near the coast for long.",
+        "Fresh tracks, empty houses, and bad decisions. That is the coast.",
+        "The sea is behind me. Survival is inland.",
+        "Someone desperate is always close to the coast."
+    ],
+    "LocationTownMessages": [
+        "This town feels picked clean.",
+        "Every window feels like it is watching me.",
+        "Small towns are quiet until they are not.",
+        "There might still be something useful here.",
+        "I should search quickly and leave."
+    ],
+    "LocationCityMessages": [
+        "Too many buildings. Too many angles.",
+        "A city can hide supplies, infected, and people with bad intentions.",
+        "I do not like how many windows overlook these streets.",
+        "The bigger the city, the more chances to die.",
+        "Every street here feels exposed."
+    ],
+    "LocationForestMessages": [
+        "The trees might keep me hidden.",
+        "The forest is safer, but it gives nothing for free.",
+        "I can disappear here if I stay quiet.",
+        "Every branch snap sounds louder out here.",
+        "The woods feel empty, but I know better."
+    ],
+    "LocationWildernessMessages": [
+        "There is nothing out here but distance and bad weather.",
+        "If I get hurt out here, nobody will find me.",
+        "The wilderness hides me, but it can starve me too.",
+        "I need to know where the next water source is.",
+        "Out here, mistakes take longer to kill you, but they still kill you."
+    ],
+    "LocationMilitaryMessages": [
+        "Military places always smell like trouble.",
+        "Good gear brings bad company.",
+        "Someone else will come here looking for weapons.",
+        "I should assume I am being watched.",
+        "This place is worth looting, but not worth dying for."
+    ],
+    "LocationPoliceMessages": [
+        "Police stations are never as empty as they look.",
+        "There might be ammunition here, or someone waiting for it.",
+        "I should check the corners.",
+        "This place attracts desperate people.",
+        "I should remember this if I live long enough."
+    ],
+    "LocationMedicalMessages": [
+        "Hospitals always mean someone desperate came here first.",
+        "Medicine is worth the risk.",
+        "If anything is left, it will not be much.",
+        "I need to move fast. Everyone needs medical supplies.",
+        "This place feels like panic frozen in time."
+    ],
+    "LocationIndustrialMessages": [
+        "Rust, metal, and hiding places everywhere.",
+        "Industrial yards always have too many blind corners.",
+        "Tools might be worth the risk.",
+        "I should listen before crossing the open ground.",
+        "This place echoes too much."
+    ],
+    "LocationFarmMessages": [
+        "A farm might mean food, tools, or nothing at all.",
+        "The open fields make me feel exposed.",
+        "Barns hide more than hay now.",
+        "There may be animals nearby.",
+        "Food used to grow here. Now I have to fight for scraps."
+    ],
+    "LocationWaterMessages": [
+        "Water means life, and footsteps.",
+        "Someone else may come here to drink.",
+        "I should fill everything I can.",
+        "A water source is useful, but it is never truly safe.",
+        "I need to drink and move before someone finds me."
+    ],
+    "EnableMapEnvironmentPacks": 1,
+    "ActiveMapEnvironmentPack": "Generic",
+    "MapEnvironmentThoughtChance": 0.2,
+    "MapEnvironmentThoughtCooldownSeconds": 600,
+    "MapChernarusMessages": [
+        "This place has its own kind of danger.",
+        "I should learn the exits before I relax.",
+        "Someone else may pass through here.",
+        "Every landmark is a risk and an opportunity.",
+        "I should remember this if I live long enough."
+    ],
+    "MapLivoniaMessages": [
+        "This place has its own kind of danger.",
+        "I should learn the exits before I relax.",
+        "Someone else may pass through here.",
+        "Every landmark is a risk and an opportunity.",
+        "I should remember this if I live long enough."
+    ],
+    "MapNamalskMessages": [
+        "This place has its own kind of danger.",
+        "I should learn the exits before I relax.",
+        "Someone else may pass through here.",
+        "Every landmark is a risk and an opportunity.",
+        "I should remember this if I live long enough."
+    ],
+    "MapSakhalMessages": [
+        "This place has its own kind of danger.",
+        "I should learn the exits before I relax.",
+        "Someone else may pass through here.",
+        "Every landmark is a risk and an opportunity.",
+        "I should remember this if I live long enough."
+    ],
+    "MapDeerIsleMessages": [
+        "This place has its own kind of danger.",
+        "I should learn the exits before I relax.",
+        "Someone else may pass through here.",
+        "Every landmark is a risk and an opportunity.",
+        "I should remember this if I live long enough."
+    ],
+    "MapGenericMessages": [
+        "This place has its own kind of danger.",
+        "I should learn the exits before I relax.",
+        "Someone else may pass through here.",
+        "Every landmark is a risk and an opportunity.",
+        "I should remember this if I live long enough."
+    ],
+    "EnableShelterThoughts": 1,
+    "ShelterThoughtCooldownSeconds": 300,
+    "ShelterThoughtChance": 0.3,
+    "ShelterScanRadius": 14,
+    "ShelterNearbyBuildingCountRequired": 1,
+    "ShelterSafeMessages": [
+        "Four walls help, but they do not make me safe.",
+        "This place might give me a moment to think.",
+        "Shelter is useful. Exits matter more.",
+        "I should check every corner before trusting this place.",
+        "I should remember this if I live long enough."
+    ],
+    "ShelterUnsafeMessages": [
+        "This building could already belong to someone else.",
+        "Closed rooms hide bad surprises.",
+        "I need an exit plan before I relax.",
+        "Shelter can become a trap fast.",
+        "I should remember this if I live long enough."
+    ],
+    "ShelterBadWeatherMessages": [
+        "At least this place can keep some weather off me.",
+        "I need to dry out while I can.",
+        "Bad weather makes shelter worth the risk.",
+        "This cover might save my temperature.",
+        "I should remember this if I live long enough."
+    ],
+    "ShelterNightMessages": [
+        "Night makes every doorway feel dangerous.",
+        "If I stay here, I need to secure the exits.",
+        "This place is better than standing outside in the dark.",
+        "I should listen before I move through the rooms.",
+        "I should remember this if I live long enough."
+    ],
+    "EnableCustomThoughtZones": 1,
+    "CustomThoughtZoneDefaultCooldownSeconds": 600,
+    "CustomThoughtZoneDefaultChance": 0.35,
+    "CustomThoughtZones": [
+    ]
+}

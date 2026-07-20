@@ -1,0 +1,241 @@
+{
+    "ConfigVersion": 300,
+    "EnableSurvivorStorySystem": 1,
+    "EnableReadablePhysicalJournals": 1,
+    "EnableJournalSections": 1,
+    "EnableJournalDeathPages": 1,
+    "EnableTraitFearThoughtStyle": 1,
+    "EnableSpecificPlayerMemory": 1,
+    "HashStoredPlayerIds": 1,
+    "EnableConditionProfile": 1,
+    "EnableSanityHallucinationTextLayer": 1,
+    "EnableMapTonePacks": 1,
+    "EnableThoughtIntensityTiers": 1,
+    "EnableStoryAnalyticsDailyExport": 1,
+    "EnablePresetSystem": 1,
+    "StoryLayerCheckIntervalSeconds": 60.0,
+    "ConditionThoughtCooldownSeconds": 420.0,
+    "HallucinationThoughtCooldownSeconds": 600.0,
+    "MapToneThoughtCooldownSeconds": 900.0,
+    "SpecificPlayerMemoryCooldownSeconds": 300.0,
+    "StoryRootFolder": "$mission:storage_1/ZombiCideMods/SurvivorThoughts/Story",
+    "JournalRecordsFolder": "$mission:storage_1/ZombiCideMods/SurvivorThoughts/Data/Journals",
+    "StoryAnalyticsFolder": "$mission:storage_1/ZombiCideMods/SurvivorThoughts/Analytics/Story",
+    "ActiveStoryPreset": "VanillaPlus_Light",
+    "MaxSectionEntries": 60,
+    "MaxKnownPeopleRemembered": 40,
+    "MaxDailyAnalyticsEvents": 5000,
+    "ConditionStableMessages": [
+        "For once, my body is not arguing with me.",
+        "I can think clearly enough to make the next choice.",
+        "Steady hands. Steady breath. Keep it that way.",
+        "Nothing is fixed, but I am not falling apart yet.",
+        "A quiet minute is still worth something."
+    ],
+    "ConditionWornDownMessages": [
+        "The miles are starting to sit in my bones.",
+        "Every small problem feels heavier than it should.",
+        "I need food, water, warmth, or luck. Any of them would do.",
+        "I can keep moving, but I can feel the cost.",
+        "This place is sanding me down a little at a time."
+    ],
+    "ConditionStressedMessages": [
+        "Too many things are wrong at once.",
+        "My thoughts are moving faster than my hands.",
+        "I need to stop reacting and start choosing.",
+        "One mistake now will become three more.",
+        "I can feel panic waiting for an opening."
+    ],
+    "ConditionDesperateMessages": [
+        "There is no room left for pride.",
+        "I need shelter, supplies, or a miracle.",
+        "Every sound feels like it is meant for me.",
+        "Survival has become a list of things I do not have.",
+        "I am making choices I would have judged yesterday."
+    ],
+    "ConditionNearCollapseMessages": [
+        "My body is starting to make decisions without me.",
+        "The world keeps narrowing to the next breath.",
+        "If I stop now, I might not start again.",
+        "I can feel the edge under every step.",
+        "There is not enough left in me for another mistake."
+    ],
+    "ConditionBrokenMessages": [
+        "I am not surviving now. I am delaying the end.",
+        "Everything hurts, and even fear feels tired.",
+        "This might be the last page I ever write.",
+        "The body gives warnings until it has none left.",
+        "I need help. I hate that I need help."
+    ],
+    "TraitCautiousMessages": [
+        "Check the treeline before the road.",
+        "The obvious path is where people aim first.",
+        "Slow is alive. Fast is loud.",
+        "Every doorway deserves suspicion.",
+        "Leave before the place starts feeling safe."
+    ],
+    "TraitAngryMessages": [
+        "Let the world push. I am still here.",
+        "Fear can wait its turn.",
+        "I am tired of being hunted by hunger and noise.",
+        "Pain is another debt I will collect later.",
+        "If something wants me dead, it can stand in line."
+    ],
+    "TraitQuietMessages": [
+        "Silence is the only thing that has not lied to me.",
+        "Do not speak unless the words can save you.",
+        "The world talks enough. I only need to listen.",
+        "A quiet survivor leaves fewer ghosts behind.",
+        "Stillness has kept me alive this long."
+    ],
+    "TraitPracticalMessages": [
+        "Need first. Want later.",
+        "Count what matters: food, water, exits, rounds.",
+        "A useful thing is worth more than a pretty one.",
+        "Do the ugly job before it becomes impossible.",
+        "Survival is just maintenance with consequences."
+    ],
+    "TraitResourcefulMessages": [
+        "There is always something useful if I look twice.",
+        "Broken things still have parts.",
+        "Nothing is trash until I know what it can become.",
+        "Improvising is just planning with fewer choices.",
+        "The world is full of tools pretending to be junk."
+    ],
+    "TraitStubbornMessages": [
+        "Not here. Not yet.",
+        "The road can take more from me, but not all of it.",
+        "I have outlasted worse minutes than this one.",
+        "Keep moving out of spite if nothing else.",
+        "I refuse to become another quiet shape in the grass."
+    ],
+    "FearDarknessMessages": [
+        "The dark makes every sound grow teeth.",
+        "Night hides the distance between me and panic.",
+        "I hate how the black spaces feel occupied.",
+        "The dark does not chase. It waits.",
+        "I need light before my head starts inventing shapes."
+    ],
+    "FearInfectedCrowdsMessages": [
+        "One infected is noise. A crowd is a sentence.",
+        "If they start screaming together, I run.",
+        "Crowds were dangerous before they were dead.",
+        "Too many bodies moving one way. That is how people vanish.",
+        "I can handle one. I cannot handle the sound of many."
+    ],
+    "FearStarvationMessages": [
+        "Hunger makes honest people think like animals.",
+        "Empty is a sound inside the ribs.",
+        "I know what hunger can talk me into.",
+        "Food is not comfort anymore. It is permission to continue.",
+        "The thought of starving is worse than the ache itself."
+    ],
+    "FearBeingAloneMessages": [
+        "No voices. No footsteps. Just me to blame.",
+        "Being alone makes the world feel already abandoned.",
+        "I keep listening for someone who is not coming.",
+        "Company is dangerous. Absence is worse.",
+        "The silence feels personal when nobody answers it."
+    ],
+    "FearSilenceMessages": [
+        "Silence means something stopped making noise.",
+        "It is too quiet. Quiet has a reason.",
+        "When the world goes still, I start counting exits.",
+        "No birds. No wind. Nothing good starts like this.",
+        "The quiet feels like it is holding its breath."
+    ],
+    "HallucinationLowSanityMessages": [
+        "Someone whispered my name. No one is here.",
+        "For a second, the trees looked like people watching the road.",
+        "I heard footsteps stop when I stopped.",
+        "The silence keeps repeating itself.",
+        "I should not trust every thought that uses my voice."
+    ],
+    "HallucinationCannibalismMessages": [
+        "My teeth remember something I wish they did not.",
+        "The thought comes back hungry.",
+        "There are lines that do not grow back after crossing.",
+        "I can still taste the choice.",
+        "Some hunger is not in the stomach."
+    ],
+    "HallucinationNightMessages": [
+        "The dark moved in the corner of my eye.",
+        "A shape became a person, then became nothing.",
+        "Night makes a liar out of distance.",
+        "I saw a light blink where there should be no light.",
+        "The black between the trees feels crowded."
+    ],
+    "HallucinationCorpseMessages": [
+        "That corpse looked warmer a moment ago.",
+        "Dead faces all start asking the same question.",
+        "I thought I saw the hand move.",
+        "The body is still, but my head is not convinced.",
+        "Every corpse feels like a warning written badly."
+    ],
+    "IntensitySubtlePrefixes": [
+        "",
+        "A small thought: ",
+        "Quietly, ",
+        "For now, "
+    ],
+    "IntensityConcernedPrefixes": [
+        "",
+        "I should pay attention: ",
+        "This is getting worse: ",
+        "Do not ignore it: "
+    ],
+    "IntensityDesperatePrefixes": [
+        "",
+        "No more pretending: ",
+        "This is bad: ",
+        "I need to act now: "
+    ],
+    "IntensityCriticalPrefixes": [
+        "",
+        "Last chance: ",
+        "Everything is narrowing: ",
+        "Move or die: "
+    ],
+    "MapToneChernarusMessages": [
+        "Chernarus watches from the treeline.",
+        "Every village here feels like it locked its doors too late.",
+        "The coast teaches hunger, then the hills test memory.",
+        "Old roads, old farms, old ghosts.",
+        "The rain here makes every town feel abandoned twice."
+    ],
+    "MapToneLivoniaMessages": [
+        "Livonia hides things under green leaves and military concrete.",
+        "The forest gives cover to everyone, friend or otherwise.",
+        "Every clearing feels watched.",
+        "The south keeps secrets under its roots.",
+        "The bunkers are not the only things buried here."
+    ],
+    "MapToneNamalskMessages": [
+        "Namalsk does not feel cold. It feels hungry.",
+        "This island punishes slow thinking.",
+        "Warmth is currency here.",
+        "The wind sounds like a warning nobody survived to translate.",
+        "Every exposed minute feels borrowed."
+    ],
+    "MapToneSakhalMessages": [
+        "Sakhal makes warmth feel like a memory.",
+        "The sea air cuts through everything.",
+        "Fishing villages, ice, and quiet mistakes.",
+        "The island keeps its dead cold.",
+        "Out here, shelter is more important than pride."
+    ],
+    "MapToneDeerIsleMessages": [
+        "Deer Isle feels beautiful enough to be suspicious.",
+        "The coast smiles before it takes something.",
+        "Strange places make strange survivors.",
+        "The island has corners that do not feel finished.",
+        "Every landmark feels like it is hiding a story."
+    ],
+    "MapToneGenericMessages": [
+        "This place has survived worse than me.",
+        "Every road leads to someone's last plan.",
+        "The land keeps its own records.",
+        "I should learn this place before it learns me.",
+        "No map shows where a person starts breaking."
+    ]
+}

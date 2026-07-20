@@ -1,0 +1,380 @@
+{
+    "EnableActionThoughts": 1,
+    "EnableExtendedVanillaActionMessages": 1,
+    "EnableEatingThoughts": 1,
+    "EnableDrinkingThoughts": 1,
+    "EnableUnjamThoughts": 1,
+    "EnableSkinningThoughts": 1,
+    "EnableBandagingThoughts": 1,
+    "EnableFireStartingThoughts": 1,
+    "EnableCookingThoughts": 1,
+    "EnableFishingThoughts": 1,
+    "EnableRepairThoughts": 1,
+    "EatingMessages": [
+        "That helped.",
+        "I needed that.",
+        "My stomach settles a little.",
+        "I should find more food before moving on.",
+        "That tasted awful, but it will keep me alive."
+    ],
+    "DrinkingMessages": [
+        "That feels better.",
+        "My throat needed that.",
+        "I should refill before I leave.",
+        "Clean water is worth more than ammo out here.",
+        "I needed every drop."
+    ],
+    "UnsafeDrinkingMessages": [
+        "I hope that water was clean.",
+        "That tasted off.",
+        "My stomach turns after drinking that.",
+        "I should have purified it first.",
+        "I should remember this if I live long enough."
+    ],
+    "UnjamMessages": [
+        "Come on, clear it.",
+        "Not now.",
+        "This weapon is going to get me killed.",
+        "I need to maintain this gun.",
+        "That could have been the end of me."
+    ],
+    "UnjamSuccessMessages": [
+        "It is clear.",
+        "Back in the fight.",
+        "I got it working again.",
+        "The world keeps finding new ways to test me.",
+        "I should remember this if I live long enough."
+    ],
+    "SkinningAnimalMessages": [
+        "This will keep me alive.",
+        "Fresh meat means another day.",
+        "I should cook this before moving on.",
+        "The smell might attract attention.",
+        "Waste nothing."
+    ],
+    "SkinningHumanMessages": [
+        "I should not think about what I am doing.",
+        "Survival changes people.",
+        "There is no going back from this.",
+        "I hope nobody saw that.",
+        "I should remember this if I live long enough."
+    ],
+    "BandagingMessages": [
+        "Hold pressure.",
+        "I need to stop the bleeding.",
+        "That should slow it down.",
+        "I cannot afford to lose more blood.",
+        "Stay calm. Wrap it tight."
+    ],
+    "BandageSuccessMessages": [
+        "The bleeding has stopped.",
+        "That was close.",
+        "I need to be more careful.",
+        "The world keeps finding new ways to test me.",
+        "I should remember this if I live long enough."
+    ],
+    "FireStartingMessages": [
+        "Come on, catch.",
+        "A fire would change everything right now.",
+        "I need warmth.",
+        "Smoke might give me away.",
+        "Finally, some heat."
+    ],
+    "CookingMessages": [
+        "The smell makes me hungry.",
+        "Hot food might keep me going.",
+        "I should not burn this.",
+        "A warm meal feels rare now.",
+        "I should remember this if I live long enough."
+    ],
+    "FishingMessages": [
+        "Patience.",
+        "Something has to bite eventually.",
+        "Food from the water is safer than the towns.",
+        "I hope this line holds.",
+        "I should remember this if I live long enough."
+    ],
+    "RepairMessages": [
+        "This should hold for now.",
+        "Better than letting it fall apart.",
+        "I need to take care of my gear.",
+        "Nothing lasts out here.",
+        "I should remember this if I live long enough."
+    ],
+    "MedicineConsumeMessages": [
+        "I hope this helps.",
+        "This better be the right medicine.",
+        "Give it time to work.",
+        "Medicine is worth more than ammunition right now.",
+        "I should remember this if I live long enough."
+    ],
+    "WoundCareActionMessages": [
+        "Hold still. Fix the damage.",
+        "This is going to hurt.",
+        "Patch it now or pay for it later.",
+        "Breathe. One wound at a time.",
+        "I should remember this if I live long enough."
+    ],
+    "InjectionMessages": [
+        "Needle in. Do not think about it.",
+        "This might keep me standing.",
+        "I hope this works fast.",
+        "No room for hesitation.",
+        "I should remember this if I live long enough."
+    ],
+    "BloodMedicalMessages": [
+        "I need to trust this blood.",
+        "This could save a life, or end one.",
+        "Check it twice. Mistakes kill.",
+        "Blood and saline are hope in a bag.",
+        "I should remember this if I live long enough."
+    ],
+    "DisinfectActionMessages": [
+        "Clean it before it turns bad.",
+        "This sting is better than infection.",
+        "I need to keep this from getting worse.",
+        "Dirty wounds kill slowly.",
+        "I should remember this if I live long enough."
+    ],
+    "RestrainActionMessages": [
+        "This is not a good situation.",
+        "Hands controlled. Threat reduced.",
+        "Nobody trusts anyone anymore.",
+        "This could turn ugly fast.",
+        "I should remember this if I live long enough."
+    ],
+    "CraftingActionMessages": [
+        "Make do with what is left.",
+        "Improvised is better than nothing.",
+        "Hands busy. Mind focused.",
+        "If it holds, it is good enough.",
+        "I should remember this if I live long enough."
+    ],
+    "DeployActionMessages": [
+        "This place will have to do.",
+        "Set it down and keep watch.",
+        "I should not stay exposed for long.",
+        "Placement matters. Escape routes matter more.",
+        "I should remember this if I live long enough."
+    ],
+    "GardeningActionMessages": [
+        "Food takes patience.",
+        "If this grows, it might save me later.",
+        "The soil still remembers life.",
+        "A garden is hope, if nobody finds it first.",
+        "I should remember this if I live long enough."
+    ],
+    "ResourceGatheringMessages": [
+        "Useful materials are worth the noise.",
+        "Every swing could draw attention.",
+        "Take what I need and move.",
+        "Nothing comes free out here.",
+        "I should remember this if I live long enough."
+    ],
+    "LiquidTransferMessages": [
+        "Do not waste a drop.",
+        "Water, fuel, blood. Everything has value now.",
+        "Fill it while I can.",
+        "I should check what I am carrying.",
+        "I should remember this if I live long enough."
+    ],
+    "FireplaceActionMessages": [
+        "A fire is comfort and a signal.",
+        "Heat helps, smoke betrays.",
+        "This could keep me alive tonight.",
+        "I need warmth, but I need caution too.",
+        "I should remember this if I live long enough."
+    ],
+    "ElectronicsActionMessages": [
+        "If this still works, it could matter.",
+        "Power means attention.",
+        "Old technology still has uses.",
+        "Light and noise can save me or expose me.",
+        "I should remember this if I live long enough."
+    ],
+    "NavigationActionMessages": [
+        "Know where I am before moving.",
+        "A wrong turn can kill as surely as a bullet.",
+        "Check the route. Then move.",
+        "I need a plan, not panic.",
+        "I should remember this if I live long enough."
+    ],
+    "LockActionMessages": [
+        "Locks mean someone wanted control.",
+        "This might keep something safe, or keep me out.",
+        "Take the time. Watch the area.",
+        "Security always attracts attention.",
+        "I should remember this if I live long enough."
+    ],
+    "TrapExplosiveMessages": [
+        "Careful. One mistake here is final.",
+        "Slow hands. Clear head.",
+        "This kind of work gets people killed.",
+        "Do not rush explosives or traps.",
+        "I should remember this if I live long enough."
+    ],
+    "BaseBuildingActionMessages": [
+        "Build it strong or do not build it at all.",
+        "Every wall is a promise and a target.",
+        "This might hold for a while.",
+        "A base is never truly safe.",
+        "I should remember this if I live long enough."
+    ],
+    "VehicleActionMessages": [
+        "Engines are freedom and noise.",
+        "If this runs, everyone nearby will know.",
+        "Vehicles solve problems and create new ones.",
+        "Check it twice before trusting it.",
+        "I should remember this if I live long enough."
+    ],
+    "BuryStashMessages": [
+        "Hide it well. Forget nothing.",
+        "Someone could still find this.",
+        "The ground keeps secrets until it does not.",
+        "A stash is only safe if nobody sees me make it.",
+        "I should remember this if I live long enough."
+    ],
+    "PersonalCareMessages": [
+        "Small comforts still matter.",
+        "Clean hands, clear head.",
+        "It is easy to forget being human.",
+        "Take care of the body that carries me.",
+        "I should remember this if I live long enough."
+    ],
+    "AmmoManagementMessages": [
+        "Count the rounds.",
+        "Every bullet matters.",
+        "Load it now, need it later.",
+        "Do not fumble this when it counts.",
+        "I should remember this if I live long enough."
+    ],
+    "OpenCloseActionMessages": [
+        "Careful. Doors make noise.",
+        "Check the corners before moving through.",
+        "Every door could have someone behind it.",
+        "Quiet hands. Slow movements.",
+        "I should remember this if I live long enough."
+    ],
+    "GeneralActionMessages": [
+        "Keep moving.",
+        "One more thing to do.",
+        "Do it carefully.",
+        "Small tasks keep me alive.",
+        "I should remember this if I live long enough."
+    ],
+    "InventoryActionMessages": [
+        "Sort it fast. Stay aware.",
+        "Too much gear slows decisions.",
+        "Everything I carry should earn its weight.",
+        "Pack it so I can survive with it.",
+        "I should remember this if I live long enough."
+    ],
+    "MovementActionMessages": [
+        "Watch the footing.",
+        "One slip could be enough.",
+        "Move carefully.",
+        "Do not get stuck here.",
+        "I should remember this if I live long enough."
+    ],
+    "WorldInteractionMessages": [
+        "This place still has systems buried in it.",
+        "Old infrastructure, new danger.",
+        "I should be ready for what this changes.",
+        "Nothing down here feels safe.",
+        "I should remember this if I live long enough."
+    ],
+    "OpenCloseActionCooldownSeconds": 2.5,
+    "EnableDamageReactionThoughts": 1,
+    "EnableBleedingReactionThoughts": 1,
+    "EnableZombieHitMessages": 1,
+    "EnablePlayerMeleeHitMessages": 1,
+    "EnableGunshotHitMessages": 1,
+    "EnableExplosionHitMessages": 1,
+    "EnableHeavyHitMessages": 1,
+    "EnableBleedingStartedMessages": 1,
+    "EnableBleedingWorseMessages": 1,
+    "EnableBleedingStoppedMessages": 1,
+    "HeavyHitHealthDamage_Min": 25,
+    "HeavyHitBloodDamage_Min": 300,
+    "HeavyHitShockDamage_Min": 35,
+    "ZombieHitMessages": [
+        "That was too close.",
+        "Move. Breathe. Find cover.",
+        "My hands are shaking.",
+        "I need to stay alive for the next few seconds.",
+        "I should remember this if I live long enough."
+    ],
+    "PlayerMeleeHitMessages": [
+        "That was too close.",
+        "Move. Breathe. Find cover.",
+        "My hands are shaking.",
+        "I need to stay alive for the next few seconds.",
+        "I should remember this if I live long enough."
+    ],
+    "GunshotHitMessages": [
+        "That was too close.",
+        "Move. Breathe. Find cover.",
+        "My hands are shaking.",
+        "I need to stay alive for the next few seconds.",
+        "I should remember this if I live long enough."
+    ],
+    "ExplosionHitMessages": [
+        "That was too close.",
+        "Move. Breathe. Find cover.",
+        "My hands are shaking.",
+        "I need to stay alive for the next few seconds.",
+        "I should remember this if I live long enough."
+    ],
+    "HeavyHitMessages": [
+        "That was too close.",
+        "Move. Breathe. Find cover.",
+        "My hands are shaking.",
+        "I need to stay alive for the next few seconds.",
+        "I should remember this if I live long enough."
+    ],
+    "BleedingStartedMessages": [
+        "I am losing blood.",
+        "I need to stop this before it gets worse.",
+        "Warmth is leaving with every drop.",
+        "Pressure first. Panic later.",
+        "I should remember this if I live long enough."
+    ],
+    "BleedingWorseMessages": [
+        "I am losing blood.",
+        "I need to stop this before it gets worse.",
+        "Warmth is leaving with every drop.",
+        "Pressure first. Panic later.",
+        "I should remember this if I live long enough."
+    ],
+    "BleedingStoppedMessages": [
+        "I am losing blood.",
+        "I need to stop this before it gets worse.",
+        "Warmth is leaving with every drop.",
+        "Pressure first. Panic later.",
+        "I should remember this if I live long enough."
+    ],
+    "EnableNearMissCombatMessages": 1,
+    "NearMissCombatCooldownSeconds": 45,
+    "NearMissCombatChance": 0.35,
+    "NearMissBulletMessages": [
+        "That was too close.",
+        "Move. Breathe. Find cover.",
+        "My hands are shaking.",
+        "I need to stay alive for the next few seconds.",
+        "I should remember this if I live long enough."
+    ],
+    "NearMissExplosionMessages": [
+        "That was too close.",
+        "Move. Breathe. Find cover.",
+        "My hands are shaking.",
+        "I need to stay alive for the next few seconds.",
+        "I should remember this if I live long enough."
+    ],
+    "NearMissCombatGeneralMessages": [
+        "That was too close.",
+        "Move. Breathe. Find cover.",
+        "My hands are shaking.",
+        "I need to stay alive for the next few seconds.",
+        "I should remember this if I live long enough."
+    ]
+}

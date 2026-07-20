@@ -1,0 +1,20 @@
+Survivor Thoughts - Message Health Report
+Generated at game time: 92399
+
+Recommended minimum messages per field: 5
+
+MedicalTreatmentMessages = 6 messages [OK]
+BloodDiscoveryMessages = 6 messages [OK]
+FireAndShelterMessages = 6 messages [OK]
+WeaponStateMessages = 6 messages [OK]
+AmmoStressMessages = 6 messages [OK]
+VehicleMessages = 6 messages [OK]
+BaseRaidMessages = 6 messages [OK]
+HuntingFishingMessages = 6 messages [OK]
+CraftingMessages = 6 messages [OK]
+HandsHygieneMessages = 6 messages [OK]
+GasMaskFilterMessages = 6 messages [OK]
+BetrayalTrustMessages = 6 messages [OK]
+
+Note: consolidated config files are still the authoritative source for existing legacy message pools.
+This report covers the new v0.3.7 admin/trigger expansion pools.

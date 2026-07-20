@@ -1,0 +1,431 @@
+{
+    "EnableInGameAdminMenu": 1,
+    "AdminMenuOpenActionText": "Open Survivor Thoughts Admin",
+    "AdminMenuOpenCommand": "/stadmin",
+    "AllowAdminMenuForServerHost": 1,
+    "AdminSteamIds": [],
+    "EnablePriorityProfiles": 1,
+    "EnableTriggerCoverageReport": 1,
+    "EnableMessageHealthChecker": 1,
+    "EnableTriggerTester": 1,
+    "EnableAdminConfigBackups": 1,
+    "EnableAdminMessageEditorQueue": 1,
+    "EnableMissingTriggerDiagnostics": 1,
+    "Language": "en",
+    "LocalizedMessagesRoot": "$profile:ZombicideMods/SurvivorThoughts",
+    "AdminReportsFolder": "$profile:ZombicideMods/SurvivorThoughts/AdminReports",
+    "AdminConfigBackupFolder": "$profile:ZombicideMods/SurvivorThoughts/Configs/_Backups",
+    "AdminPendingMessageEditsFile": "$profile:ZombicideMods/SurvivorThoughts/Configs/_PendingMessageEdits.json",
+    "PriorityProfiles": [
+        {
+            "ThoughtType": "Passive",
+            "Priority": 10,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "Weather",
+            "Priority": 15,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "TimeOfDay",
+            "Priority": 15,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "Location",
+            "Priority": 20,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "ItemCondition",
+            "Priority": 25,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "Action",
+            "Priority": 30,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "Corpse",
+            "Priority": 35,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "Social",
+            "Priority": 40,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "Memory",
+            "Priority": 45,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "Sanity",
+            "Priority": 50,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "Disease",
+            "Priority": 55,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "Recovery",
+            "Priority": 60,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "Bleeding",
+            "Priority": 70,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "Combat",
+            "Priority": 80,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "DeathSpiral",
+            "Priority": 90,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "JournalMajorEvent",
+            "Priority": 100,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "PASSIVE",
+            "Priority": 10,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "WEATHER",
+            "Priority": 15,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "TIME_OF_DAY",
+            "Priority": 15,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "LOCATION",
+            "Priority": 20,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "ITEM_CONDITION",
+            "Priority": 25,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "ACTION",
+            "Priority": 30,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "CORPSE",
+            "Priority": 35,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "SOCIAL_GROUP",
+            "Priority": 40,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "PLAYER_MEMORY",
+            "Priority": 45,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "SANITY",
+            "Priority": 50,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "DISEASE",
+            "Priority": 55,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "RECOVERY",
+            "Priority": 60,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "BLEEDING_STARTED",
+            "Priority": 70,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "BLEEDING_WORSE",
+            "Priority": 70,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "BLEEDING_STOPPED",
+            "Priority": 60,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "COMBAT_HIT",
+            "Priority": 80,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "ZOMBIE_HIT",
+            "Priority": 80,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "PLAYER_MELEE_HIT",
+            "Priority": 80,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "GUNSHOT_HIT",
+            "Priority": 85,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "EXPLOSION_HIT",
+            "Priority": 90,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "DEATH_SPIRAL",
+            "Priority": 90,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        },
+        {
+            "ThoughtType": "JOURNAL_SYSTEM",
+            "Priority": 100,
+            "CooldownSeconds": 0.0,
+            "Enabled": 1
+        }
+    ],
+    "TriggerCoverage": [
+        {
+            "TriggerType": "BloodTypeDiscovered",
+            "MessageField": "BloodDiscoveryMessages",
+            "TriggerConnected": 1,
+            "MinRecommendedMessages": 5,
+            "Notes": "Connected to vanilla blood-test actions."
+        },
+        {
+            "TriggerType": "MedicalTreatment",
+            "MessageField": "MedicalTreatmentMessages",
+            "TriggerConnected": 1,
+            "MinRecommendedMessages": 5,
+            "Notes": "Generic medical action hooks can route here."
+        },
+        {
+            "TriggerType": "FireAndShelter",
+            "MessageField": "FireAndShelterMessages",
+            "TriggerConnected": 1,
+            "MinRecommendedMessages": 5,
+            "Notes": "Fireplace/shelter action groups can route here."
+        },
+        {
+            "TriggerType": "WeaponState",
+            "MessageField": "WeaponStateMessages",
+            "TriggerConnected": 1,
+            "MinRecommendedMessages": 5,
+            "Notes": "Unjam and weapon maintenance can route here."
+        },
+        {
+            "TriggerType": "AmmoStress",
+            "MessageField": "AmmoStressMessages",
+            "TriggerConnected": 1,
+            "MinRecommendedMessages": 5,
+            "Notes": "Ammo management actions can route here."
+        },
+        {
+            "TriggerType": "Vehicle",
+            "MessageField": "VehicleMessages",
+            "TriggerConnected": 1,
+            "MinRecommendedMessages": 5,
+            "Notes": "Vehicle action hooks already exist."
+        },
+        {
+            "TriggerType": "BaseRaid",
+            "MessageField": "BaseRaidMessages",
+            "TriggerConnected": 0,
+            "MinRecommendedMessages": 5,
+            "Notes": "Raid-specific hooks need server rules/mod compatibility."
+        },
+        {
+            "TriggerType": "HuntingFishing",
+            "MessageField": "HuntingFishingMessages",
+            "TriggerConnected": 1,
+            "MinRecommendedMessages": 5,
+            "Notes": "Fishing/skinning hooks can route here."
+        },
+        {
+            "TriggerType": "Crafting",
+            "MessageField": "CraftingMessages",
+            "TriggerConnected": 1,
+            "MinRecommendedMessages": 5,
+            "Notes": "Crafting action hooks already exist."
+        },
+        {
+            "TriggerType": "HandsHygiene",
+            "MessageField": "HandsHygieneMessages",
+            "TriggerConnected": 1,
+            "MinRecommendedMessages": 5,
+            "Notes": "Connected to vanilla wash-hands actions."
+        },
+        {
+            "TriggerType": "GasMaskFilter",
+            "MessageField": "GasMaskFilterMessages",
+            "TriggerConnected": 1,
+            "MinRecommendedMessages": 5,
+            "Notes": "Connected to periodic gas-filter condition monitor."
+        },
+        {
+            "TriggerType": "BetrayalTrust",
+            "MessageField": "BetrayalTrustMessages",
+            "TriggerConnected": 1,
+            "MinRecommendedMessages": 5,
+            "Notes": "Connected to persistent pairwise trust ledger and betrayal damage."
+        }
+    ],
+    "MedicalTreatmentMessages": [
+        "Hold still. This might keep me alive.",
+        "Clean hands, steady breath, then the wound.",
+        "Pain means I am still here.",
+        "Patch it now or pay for it later.",
+        "Medicine only matters if I survive long enough.",
+        "One more treatment. One more chance."
+    ],
+    "BloodDiscoveryMessages": [
+        "So that is my blood. Useful, if I live.",
+        "My blood has a name now.",
+        "Good to know before I bleed out.",
+        "That little test might save me one day.",
+        "Information is another kind of supply.",
+        "Remember the type. Forgetting could kill me."
+    ],
+    "FireAndShelterMessages": [
+        "Warmth makes the world feel less dead.",
+        "Smoke can be seen, but cold kills quieter.",
+        "A roof and a flame. Almost civilization.",
+        "Stay close to the heat, but watch the dark.",
+        "This place might hold for a few minutes.",
+        "The fire sounds too loud in the silence."
+    ],
+    "WeaponStateMessages": [
+        "Check the weapon. It only matters if it works.",
+        "A jam at the wrong time is a death sentence.",
+        "Metal, oil, and luck.",
+        "Keep it clean. Keep it close.",
+        "The weapon feels heavier when I need it.",
+        "One bad click and everything changes."
+    ],
+    "AmmoStressMessages": [
+        "Count what is left. Then count it again.",
+        "Every round has to matter now.",
+        "Empty magazines make loud promises.",
+        "Do not waste the last one.",
+        "The quiet after the last shot is worse.",
+        "A handful of rounds is not safety."
+    ],
+    "VehicleMessages": [
+        "Engines draw attention. So does walking.",
+        "If this thing dies out here, I walk.",
+        "Wheels mean distance. Distance means time.",
+        "The noise will carry.",
+        "Check it twice before trusting it.",
+        "A running engine feels like hope and bait."
+    ],
+    "BaseRaidMessages": [
+        "Walls only slow people down.",
+        "Every lock is an invitation to someone.",
+        "This place is safe until someone wants it.",
+        "Wood, metal, and false confidence.",
+        "Hide what matters. Reinforce what shows.",
+        "A base is just a promise to defend something."
+    ],
+    "HuntingFishingMessages": [
+        "Food with blood still warm.",
+        "Waste nothing. Not anymore.",
+        "The land still gives, if I know where to look.",
+        "Scales, hide, bone, meat. Survival has parts.",
+        "The quiet work keeps me alive.",
+        "Another meal bought with patience."
+    ],
+    "CraftingMessages": [
+        "Make do. That is the rule now.",
+        "Broken things can still be useful.",
+        "My hands remember more than I do.",
+        "Small repairs keep death delayed.",
+        "Nothing is junk until I cannot use it.",
+        "Improvised does not mean useless."
+    ],
+    "HandsHygieneMessages": [
+        "My hands need cleaning before they kill me.",
+        "Blood under the nails. Not all of it mine.",
+        "Clean hands, cleaner food, better odds.",
+        "I should wash this off before I forget.",
+        "The smell stays longer than it should.",
+        "Dirt is one thing. Blood is another."
+    ],
+    "GasMaskFilterMessages": [
+        "The filter will not last forever.",
+        "Every breath has a timer.",
+        "The mask makes me sound alone.",
+        "If the seal fails, I am done.",
+        "Do not trust clean air in a dead zone.",
+        "Breathe slow. Count the filter."
+    ],
+    "BetrayalTrustMessages": [
+        "Trust is heavier after it breaks.",
+        "I remember what they did.",
+        "A friendly voice can still hide a knife.",
+        "Debt, mercy, betrayal. It all stays with me.",
+        "Some faces are warnings now.",
+        "People are the hardest weather to read."
+    ]
+}

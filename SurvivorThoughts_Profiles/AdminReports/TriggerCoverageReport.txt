@@ -1,0 +1,15 @@
+Survivor Thoughts - Trigger Coverage Report
+Generated at game time: 92399
+
+BloodTypeDiscovered -> BloodDiscoveryMessages | Connected=YES | Connected to vanilla blood-test actions.
+MedicalTreatment -> MedicalTreatmentMessages | Connected=YES | Generic medical action hooks can route here.
+FireAndShelter -> FireAndShelterMessages | Connected=YES | Fireplace/shelter action groups can route here.
+WeaponState -> WeaponStateMessages | Connected=YES | Unjam and weapon maintenance can route here.
+AmmoStress -> AmmoStressMessages | Connected=YES | Ammo management actions can route here.
+Vehicle -> VehicleMessages | Connected=YES | Vehicle action hooks already exist.
+BaseRaid -> BaseRaidMessages | Connected=NO | Raid-specific hooks need server rules/mod compatibility.
+HuntingFishing -> HuntingFishingMessages | Connected=YES | Fishing/skinning hooks can route here.
+Crafting -> CraftingMessages | Connected=YES | Crafting action hooks already exist.
+HandsHygiene -> HandsHygieneMessages | Connected=YES | Connected to vanilla wash-hands actions.
+GasMaskFilter -> GasMaskFilterMessages | Connected=YES | Connected to periodic gas-filter condition monitor.
+BetrayalTrust -> BetrayalTrustMessages | Connected=YES | Connected to persistent pairwise trust ledger and betrayal damage.

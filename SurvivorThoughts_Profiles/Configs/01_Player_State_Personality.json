@@ -1,0 +1,327 @@
+{
+    "EnableConfigurableStatThresholds": 1,
+    "EnableEnergyStage1Messages": 0,
+    "EnergyStage1_Min": 2500,
+    "EnergyStage1_Max": 5000,
+    "EnableEnergyStage2Messages": 1,
+    "EnergyStage2_Min": 1500,
+    "EnergyStage2_Max": 2499,
+    "EnableEnergyStage3Messages": 1,
+    "EnergyStage3_Min": 1000,
+    "EnergyStage3_Max": 1499,
+    "EnableEnergyStage4Messages": 1,
+    "EnergyStage4_Min": 0,
+    "EnergyStage4_Max": 999,
+    "EnableWaterStage1Messages": 0,
+    "WaterStage1_Min": 2500,
+    "WaterStage1_Max": 5000,
+    "EnableWaterStage2Messages": 1,
+    "WaterStage2_Min": 1500,
+    "WaterStage2_Max": 2499,
+    "EnableWaterStage3Messages": 1,
+    "WaterStage3_Min": 1000,
+    "WaterStage3_Max": 2999,
+    "EnableWaterStage4Messages": 1,
+    "WaterStage4_Min": 0,
+    "WaterStage4_Max": 999,
+    "EnableBloodStage1Messages": 0,
+    "BloodStage1_Min": 2500,
+    "BloodStage1_Max": 5000,
+    "EnableBloodStage2Messages": 1,
+    "BloodStage2_Min": 1500,
+    "BloodStage2_Max": 2499,
+    "EnableBloodStage3Messages": 1,
+    "BloodStage3_Min": 1000,
+    "BloodStage3_Max": 2999,
+    "EnableBloodStage4Messages": 1,
+    "BloodStage4_Min": 0,
+    "BloodStage4_Max": 2499,
+    "EnableShockStage1Messages": 0,
+    "ShockStage1_Min": 75,
+    "ShockStage1_Max": 100,
+    "EnableShockStage2Messages": 1,
+    "ShockStage2_Min": 50,
+    "ShockStage2_Max": 74,
+    "EnableShockStage3Messages": 1,
+    "ShockStage3_Min": 25,
+    "ShockStage3_Max": 49,
+    "EnableShockStage4Messages": 1,
+    "ShockStage4_Min": 0,
+    "ShockStage4_Max": 24,
+    "EnableDeathSpiralThoughts": 1,
+    "HealthDropMinAmount": 0.1,
+    "HealthDropRecentSeconds": 90,
+    "DeathSpiralColdComfort_Max": -0.75,
+    "DeathSpiralHotComfort_Min": 0.75,
+    "EnableStarvingToDeathMessages": 1,
+    "EnableDehydratingToDeathMessages": 1,
+    "EnableFreezingToDeathMessages": 1,
+    "EnableOverheatingToDeathMessages": 1,
+    "EnablePlayerStateHistory": 1,
+    "StateHistorySampleIntervalSeconds": 30,
+    "StateHistoryWindowSeconds": 900,
+    "TrendChangeThreshold": 0.1,
+    "EnableTrendMessages": 1,
+    "EnableStateSnapshots": 1,
+    "StateSnapshotIntervalSeconds": 300,
+    "EnablePersistentStateSnapshots": 1,
+    "StateSnapshotFolder": "$mission:storage_1/ZombiCideMods/SurvivorThoughts/Debug/PlayerStateSnapshots",
+    "TrendEnergyFallingMessages": [
+        "My stomach is turning against me.",
+        "I need food before my strength goes.",
+        "Every step costs more than I have.",
+        "I cannot run on nothing much longer.",
+        "I should remember this if I live long enough."
+    ],
+    "TrendWaterFallingMessages": [
+        "My mouth is too dry.",
+        "I need water soon.",
+        "Dehydration is starting to slow my thoughts.",
+        "I have to find something safe to drink.",
+        "I should remember this if I live long enough."
+    ],
+    "TrendBloodFallingMessages": [
+        "I am losing blood.",
+        "I need to stop this before it gets worse.",
+        "Warmth is leaving with every drop.",
+        "Pressure first. Panic later.",
+        "I should remember this if I live long enough."
+    ],
+    "TrendHealthFallingMessages": [
+        "This trend health falling is getting to me.",
+        "I need to pay attention to this trend health falling.",
+        "Something about this trend health falling feels wrong.",
+        "I should not ignore this trend health falling.",
+        "I should remember this if I live long enough."
+    ],
+    "TrendTemperatureWorseningMessages": [
+        "This trend temperature worsening is getting to me.",
+        "I need to pay attention to this trend temperature worsening.",
+        "Something about this trend temperature worsening feels wrong.",
+        "I should not ignore this trend temperature worsening.",
+        "I should remember this if I live long enough."
+    ],
+    "TrendWetnessWorseningMessages": [
+        "The weather is wearing me down.",
+        "This makes every sound harder to trust.",
+        "I need to get out of this weather.",
+        "Bad weather hides bad decisions.",
+        "I should remember this if I live long enough."
+    ],
+    "LongSicknessMessages": [
+        "Something is wrong inside me.",
+        "I need medicine before this gets worse.",
+        "My body is fighting and losing ground.",
+        "This sickness is stealing my strength.",
+        "I should remember this if I live long enough."
+    ],
+    "LongBleedingMessages": [
+        "I am losing blood.",
+        "I need to stop this before it gets worse.",
+        "Warmth is leaving with every drop.",
+        "Pressure first. Panic later.",
+        "I should remember this if I live long enough."
+    ],
+    "EnableProlongedStateMessages": 1,
+    "ProlongedStateThresholdSeconds": 600,
+    "ProlongedStarvationMessages": [
+        "This prolonged starvation is getting to me.",
+        "I need to pay attention to this prolonged starvation.",
+        "Something about this prolonged starvation feels wrong.",
+        "I should not ignore this prolonged starvation.",
+        "I should remember this if I live long enough."
+    ],
+    "ProlongedDehydrationMessages": [
+        "My mouth is too dry.",
+        "I need water soon.",
+        "Dehydration is starting to slow my thoughts.",
+        "I have to find something safe to drink.",
+        "I should remember this if I live long enough."
+    ],
+    "ProlongedColdMessages": [
+        "The cold is getting into my bones.",
+        "I need warmth before this gets worse.",
+        "My fingers are stiff.",
+        "Shelter and heat. That is all that matters.",
+        "I should remember this if I live long enough."
+    ],
+    "ProlongedHeatMessages": [
+        "The heat is draining me.",
+        "I need shade or water.",
+        "My head feels heavy.",
+        "I am overheating out here.",
+        "I should remember this if I live long enough."
+    ],
+    "ProlongedBleedingMessages": [
+        "I am losing blood.",
+        "I need to stop this before it gets worse.",
+        "Warmth is leaving with every drop.",
+        "Pressure first. Panic later.",
+        "I should remember this if I live long enough."
+    ],
+    "ProlongedSicknessMessages": [
+        "Something is wrong inside me.",
+        "I need medicine before this gets worse.",
+        "My body is fighting and losing ground.",
+        "This sickness is stealing my strength.",
+        "I should remember this if I live long enough."
+    ],
+    "EnablePersonalityProfiles": 1,
+    "PersonalityThoughtChance": 0.2,
+    "PersonalityPersistBySteamId": 1,
+    "PersonalityDataFile": "$mission:storage_1/ZombiCideMods/SurvivorThoughts/Data/PlayerPersonalities.json",
+    "EnablePersonalityChangeOverTime": 1,
+    "PersonalityChangeChance": 0.08,
+    "PersonalityMinimumSecondsBetweenChanges": 7200,
+    "PersonalityPracticalMessages": [
+        "Priorities first. Water, food, shelter.",
+        "Check supplies, check exits, keep moving.",
+        "Do not waste energy.",
+        "Solve the next problem.",
+        "I should remember this if I live long enough."
+    ],
+    "PersonalityScaredMessages": [
+        "I hate this place.",
+        "Every sound feels too close.",
+        "I do not want to die here.",
+        "Something is watching. It has to be.",
+        "I should remember this if I live long enough."
+    ],
+    "PersonalityMilitaryMessages": [
+        "Good gear brings bad company.",
+        "Someone else will come here armed.",
+        "I should assume I am being watched.",
+        "Military places never feel abandoned.",
+        "I should remember this if I live long enough."
+    ],
+    "PersonalityHopelessMessages": [
+        "This place takes everything eventually.",
+        "I am tired of pretending this gets better.",
+        "Maybe surviving is just a slower way to lose.",
+        "Keep walking. That is all I have left.",
+        "I should remember this if I live long enough."
+    ],
+    "PersonalityAggressiveMessages": [
+        "Hit first if it comes to it.",
+        "Fear makes people slow.",
+        "I will not be easy prey.",
+        "Let them make the first mistake.",
+        "I should remember this if I live long enough."
+    ],
+    "PersonalityCalmMessages": [
+        "Breathe. Think. Move.",
+        "Panic wastes strength.",
+        "One problem at a time.",
+        "There is still a way through this.",
+        "I should remember this if I live long enough."
+    ],
+    "EnableMentalStateThoughts": 1,
+    "MentalStateThoughtCooldownSeconds": 300,
+    "MentalStateThoughtChance": 0.25,
+    "MentalStateCriticalHealthMax": 30,
+    "MentalStateLowBloodMax": 3500,
+    "MentalStateLowFoodMax": 500,
+    "MentalStateLowWaterMax": 500,
+    "MentalStateStableMessages": [
+        "Keep priorities simple. Water, food, shelter.",
+        "Think clearly. Waste nothing.",
+        "I can handle this if I stay methodical.",
+        "One good decision after another.",
+        "I should remember this if I live long enough."
+    ],
+    "MentalStateUneasyMessages": [
+        "Something feels wrong.",
+        "I cannot shake the feeling that I am being watched.",
+        "I need to slow down and listen.",
+        "This place is getting under my skin.",
+        "I should remember this if I live long enough."
+    ],
+    "MentalStateAfraidMessages": [
+        "Do not panic. Panic wastes energy.",
+        "I hate how close everything sounds.",
+        "Fear is useful if it keeps me careful.",
+        "I need to breathe and keep moving.",
+        "I should remember this if I live long enough."
+    ],
+    "MentalStateDesperateMessages": [
+        "I am running out of choices.",
+        "Anything useful matters now.",
+        "I need supplies before I need a plan.",
+        "Desperation makes people loud. I need to stay smart.",
+        "I should remember this if I live long enough."
+    ],
+    "MentalStateNumbMessages": [
+        "I do not feel much anymore.",
+        "Maybe numb is better than scared.",
+        "Keep moving. Feeling can come later.",
+        "This place takes pieces from everyone.",
+        "I should remember this if I live long enough."
+    ],
+    "MentalStateAggressiveMessages": [
+        "If someone pushes me now, they will regret it.",
+        "I am tired of being hunted.",
+        "No more hesitation.",
+        "Threats need to be dealt with before they grow.",
+        "I should remember this if I live long enough."
+    ],
+    "MentalStateBrokenMessages": [
+        "I do not know how much longer I can keep doing this.",
+        "Everything hurts. Everything is heavy.",
+        "I need one reason to keep moving.",
+        "The world is getting smaller with every step.",
+        "I should remember this if I live long enough."
+    ],
+    "MentalStateFocusedMessages": [
+        "Focus. Check corners. Check supplies. Move.",
+        "Noise, cover, exits. Nothing else matters.",
+        "Stay sharp and stay alive.",
+        "I need to solve the next problem, not all of them.",
+        "I should remember this if I live long enough."
+    ],
+    "EnablePlayerMemoryThoughts": 1,
+    "PlayerMemoryThoughtCooldownSeconds": 240,
+    "PlayerMemoryThoughtChance": 0.3,
+    "PlayerMemoryDurationSeconds": 600,
+    "PlayerMemoryRecentDamageMessages": [
+        "That hit is still on my mind.",
+        "I need to keep moving after that.",
+        "Pain makes every decision slower.",
+        "I should not let that happen again.",
+        "I should remember this if I live long enough."
+    ],
+    "PlayerMemoryRecentBleedingMessages": [
+        "I can still feel where I was bleeding.",
+        "That wound could have ended me.",
+        "I need to check myself before moving on.",
+        "Blood loss changes how everything feels.",
+        "I should remember this if I live long enough."
+    ],
+    "PlayerMemoryRecentGunshotMessages": [
+        "That gunshot is still ringing in my head.",
+        "Someone with a gun changes everything.",
+        "I need cover before confidence.",
+        "One shot was enough warning.",
+        "I should remember this if I live long enough."
+    ],
+    "PlayerMemoryRecentCorpseMessages": [
+        "That body was a warning.",
+        "Someone died close by. I should not ignore that.",
+        "Bodies draw questions, flies, and people.",
+        "I need to leave before I become part of the scene.",
+        "I should remember this if I live long enough."
+    ],
+    "PlayerMemoryRecentMilitaryMessages": [
+        "Military places bring armed survivors.",
+        "Good loot is never free.",
+        "I should assume someone watched this place before me.",
+        "The risk here follows me even after I leave.",
+        "I should remember this if I live long enough."
+    ],
+    "PlayerMemoryRecentSurvivalCrisisMessages": [
+        "I came too close to dying.",
+        "My body needs a break before it gives up.",
+        "I need food, water, warmth, and time.",
+        "Survival is getting narrower.",
+        "I should remember this if I live long enough."
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "EnableItemConditionThoughts": 1,
+    "ItemConditionHealthThreshold": 0.35,
+    "ScanEquippedItemsForDamagedThoughts": 1,
+    "EnableHandsItemConditionMessages": 1,
+    "EnableWeaponConditionMessages": 1,
+    "EnableClothingConditionMessages": 1,
+    "EnableShoesConditionMessages": 1,
+    "EnableBackpackConditionMessages": 1,
+    "EnableVestConditionMessages": 1,
+    "EnableHeadgearConditionMessages": 1,
+    "EnableGlovesConditionMessages": 1,
+    "EnableMaskConditionMessages": 1,
+    "EnableBeltConditionMessages": 1,
+    "ItemBadlyDamagedMessages": [
+        "This gear will not last much longer.",
+        "I should repair this before it fails.",
+        "Bad equipment gets people killed.",
+        "Everything I own is wearing down.",
+        "I should remember this if I live long enough."
+    ],
+    "ItemWeaponDamagedMessages": [
+        "This gear will not last much longer.",
+        "I should repair this before it fails.",
+        "Bad equipment gets people killed.",
+        "Everything I own is wearing down.",
+        "I should remember this if I live long enough."
+    ],
+    "ItemShoesDamagedMessages": [
+        "This gear will not last much longer.",
+        "I should repair this before it fails.",
+        "Bad equipment gets people killed.",
+        "Everything I own is wearing down.",
+        "I should remember this if I live long enough."
+    ],
+    "ItemClothingDamagedMessages": [
+        "This gear will not last much longer.",
+        "I should repair this before it fails.",
+        "Bad equipment gets people killed.",
+        "Everything I own is wearing down.",
+        "I should remember this if I live long enough."
+    ],
+    "ItemBackpackDamagedMessages": [
+        "This gear will not last much longer.",
+        "I should repair this before it fails.",
+        "Bad equipment gets people killed.",
+        "Everything I own is wearing down.",
+        "I should remember this if I live long enough."
+    ],
+    "ItemVestDamagedMessages": [
+        "This gear will not last much longer.",
+        "I should repair this before it fails.",
+        "Bad equipment gets people killed.",
+        "Everything I own is wearing down.",
+        "I should remember this if I live long enough."
+    ],
+    "ItemHeadgearDamagedMessages": [
+        "This gear will not last much longer.",
+        "I should repair this before it fails.",
+        "Bad equipment gets people killed.",
+        "Everything I own is wearing down.",
+        "I should remember this if I live long enough."
+    ],
+    "ItemGlovesDamagedMessages": [
+        "This gear will not last much longer.",
+        "I should repair this before it fails.",
+        "Bad equipment gets people killed.",
+        "Everything I own is wearing down.",
+        "I should remember this if I live long enough."
+    ],
+    "ItemMaskDamagedMessages": [
+        "This gear will not last much longer.",
+        "I should repair this before it fails.",
+        "Bad equipment gets people killed.",
+        "Everything I own is wearing down.",
+        "I should remember this if I live long enough."
+    ],
+    "ItemBeltDamagedMessages": [
+        "This gear will not last much longer.",
+        "I should repair this before it fails.",
+        "Bad equipment gets people killed.",
+        "Everything I own is wearing down.",
+        "I should remember this if I live long enough."
+    ],
+    "EnableNearbyCorpseThoughts": 1,
+    "NearbyCorpseRadius": 35,
+    "NearbyCorpseMessages": [
+        "Someone died here.",
+        "Bodies mean danger came through already.",
+        "I should not stay near this.",
+        "Where there is one corpse, there may be another.",
+        "I should remember this if I live long enough."
+    ],
+    "NearbyPlayerCorpseMessages": [
+        "Someone died here.",
+        "Bodies mean danger came through already.",
+        "I should not stay near this.",
+        "Where there is one corpse, there may be another.",
+        "I should remember this if I live long enough."
+    ],
+    "NearbyInfectedCorpseMessages": [
+        "Infected are too close.",
+        "I need to move quietly.",
+        "One wrong noise and they will be on me.",
+        "I can hear them nearby.",
+        "I should remember this if I live long enough."
+    ],
+    "NearbyAnimalCorpseMessages": [
+        "Someone died here.",
+        "Bodies mean danger came through already.",
+        "I should not stay near this.",
+        "Where there is one corpse, there may be another.",
+        "I should remember this if I live long enough."
+    ]
+}

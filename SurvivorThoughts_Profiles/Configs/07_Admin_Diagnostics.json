@@ -1,0 +1,19 @@
+{
+    "EnableThoughtDecisionTrace": 0,
+    "TraceOnlyBlockedThoughts": 1,
+    "TraceToDebugLog": 1,
+    "TraceToMissionStorage": 0,
+    "DecisionTraceFolder": "$mission:storage_1/ZombiCideMods/SurvivorThoughts/Debug/DecisionTrace",
+    "EnableAdminAnalytics": 1,
+    "AnalyticsSaveIntervalSeconds": 300,
+    "AnalyticsFolder": "$mission:storage_1/ZombiCideMods/SurvivorThoughts/Analytics",
+    "EnableAnalyticsJsonLines": 1,
+    "AnalyticsJsonLineFile": "$mission:storage_1/ZombiCideMods/SurvivorThoughts/Analytics/SurvivorThoughts_Analytics.jsonl",
+    "TrackBlockedByPriority": 1,
+    "TrackBlockedByDuplicate": 1,
+    "TrackThoughtTypes": 1,
+    "TrackRecoveryEvents": 1,
+    "TrackSanityEvents": 1,
+    "TrackSocialEvents": 1,
+    "TrackStateHistoryEvents": 1
+}

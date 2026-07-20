@@ -1,0 +1,991 @@
+{
+    "EnergyStage1Messages": [
+        "I feel fed for now.",
+        "My stomach is settled.",
+        "I can keep moving for a while.",
+        "Food is not a problem right now.",
+        "I should remember this if I live long enough."
+    ],
+    "EnergyStage2Messages": [
+        "I could eat soon.",
+        "My stomach feels a little empty.",
+        "I should keep an eye out for food.",
+        "A small meal would help.",
+        "I should remember this if I live long enough."
+    ],
+    "EnergyStage3Messages": [
+        "My stomach is starting to hurt.",
+        "I need food soon.",
+        "I can feel my strength fading.",
+        "I keep thinking about food.",
+        "I should remember this if I live long enough."
+    ],
+    "EnergyStage4Messages": [
+        "I am starving.",
+        "My body feels weak.",
+        "I need food now.",
+        "I do not know how much longer I can go without eating.",
+        "I should remember this if I live long enough."
+    ],
+    "WaterStage1Messages": [
+        "I feel hydrated.",
+        "My mouth feels fine.",
+        "Water is not an issue right now.",
+        "I can travel without worrying about thirst.",
+        "I should remember this if I live long enough."
+    ],
+    "WaterStage2Messages": [
+        "My mouth is getting dry.",
+        "I should drink soon.",
+        "I could use some water.",
+        "I need to remember the next well.",
+        "I should remember this if I live long enough."
+    ],
+    "WaterStage3Messages": [
+        "My throat is dry.",
+        "I need water soon.",
+        "My head is starting to ache.",
+        "I should not ignore this thirst.",
+        "I should remember this if I live long enough."
+    ],
+    "WaterStage4Messages": [
+        "I am dehydrated.",
+        "My mouth feels like sand.",
+        "I need water now.",
+        "I feel faint from thirst.",
+        "I should remember this if I live long enough."
+    ],
+    "BloodStage1Messages": [
+        "I feel steady for now.",
+        "My blood feels strong enough.",
+        "I can keep moving.",
+        "The world keeps finding new ways to test me.",
+        "I should remember this if I live long enough."
+    ],
+    "BloodStage2Messages": [
+        "I feel a little light-headed.",
+        "I should avoid losing more blood.",
+        "That blood loss is starting to show.",
+        "The world keeps finding new ways to test me.",
+        "I should remember this if I live long enough."
+    ],
+    "BloodStage3Messages": [
+        "My head is swimming.",
+        "I need to recover before pushing further.",
+        "The blood loss is slowing me down.",
+        "The world keeps finding new ways to test me.",
+        "I should remember this if I live long enough."
+    ],
+    "BloodStage4Messages": [
+        "I feel like I am going to pass out.",
+        "My vision keeps fading.",
+        "I have lost too much blood.",
+        "The world keeps finding new ways to test me.",
+        "I should remember this if I live long enough."
+    ],
+    "ShockStage1Messages": [
+        "I feel alert enough.",
+        "I can keep myself together.",
+        "My nerves are steady.",
+        "The world keeps finding new ways to test me.",
+        "I should remember this if I live long enough."
+    ],
+    "ShockStage2Messages": [
+        "That shook me.",
+        "I need a second to steady myself.",
+        "My hands are not as steady as they should be.",
+        "The world keeps finding new ways to test me.",
+        "I should remember this if I live long enough."
+    ],
+    "ShockStage3Messages": [
+        "I feel stunned.",
+        "My body is struggling to respond.",
+        "I need to get behind cover.",
+        "The world keeps finding new ways to test me.",
+        "I should remember this if I live long enough."
+    ],
+    "ShockStage4Messages": [
+        "I am about to black out.",
+        "Everything is fading.",
+        "I cannot stay conscious much longer.",
+        "The world keeps finding new ways to test me.",
+        "I should remember this if I live long enough."
+    ],
+    "Cold_Mild_Messages": [
+        "The air feels cold.",
+        "I should keep moving.",
+        "My hands are getting stiff.",
+        "I need to stay dry.",
+        "I should remember this if I live long enough."
+    ],
+    "Cold_Moderate_Messages": [
+        "I am getting cold.",
+        "My clothes are not keeping the chill out.",
+        "I need shelter or a fire.",
+        "My fingers are going numb.",
+        "I should remember this if I live long enough."
+    ],
+    "Cold_Severe_Messages": [
+        "I am freezing.",
+        "This cold is cutting through me.",
+        "I need warmth now.",
+        "I can barely feel my hands.",
+        "I should remember this if I live long enough."
+    ],
+    "Cold_Critical_Messages": [
+        "I cannot stop shaking.",
+        "My body is shutting down from the cold.",
+        "I need fire, shelter, or dry clothes immediately.",
+        "I am not going to survive this cold much longer.",
+        "I should remember this if I live long enough."
+    ],
+    "Hot_Mild_Messages": [
+        "I feel warm.",
+        "I should avoid overheating.",
+        "The heat is starting to build.",
+        "I may need to slow down.",
+        "I should remember this if I live long enough."
+    ],
+    "Hot_Moderate_Messages": [
+        "I am getting too hot.",
+        "I need shade or lighter clothing.",
+        "This heat is draining me.",
+        "I should drink more water.",
+        "I should remember this if I live long enough."
+    ],
+    "Hot_Severe_Messages": [
+        "I am overheating.",
+        "My head feels heavy from the heat.",
+        "I need to cool down.",
+        "I should stop running.",
+        "I should remember this if I live long enough."
+    ],
+    "Hot_Critical_Messages": [
+        "I feel like I am going to collapse.",
+        "The heat is unbearable.",
+        "I need water and shade now.",
+        "My body cannot handle this heat much longer.",
+        "I should remember this if I live long enough."
+    ],
+    "Sickness_Early_Messages": [
+        "Something feels off.",
+        "My stomach feels unsettled.",
+        "I do not feel right.",
+        "I might be getting sick.",
+        "I should remember this if I live long enough."
+    ],
+    "Sickness_Moderate_Messages": [
+        "I feel ill.",
+        "My body aches.",
+        "My stomach keeps turning.",
+        "I need medicine.",
+        "I should remember this if I live long enough."
+    ],
+    "Sickness_Severe_Messages": [
+        "I feel feverish.",
+        "I can barely focus.",
+        "This sickness is getting worse.",
+        "I need treatment soon.",
+        "I should remember this if I live long enough."
+    ],
+    "Sickness_Critical_Messages": [
+        "I feel like I am dying.",
+        "My body is fighting something bad.",
+        "I need medicine now.",
+        "I do not know how much longer I can keep going.",
+        "I should remember this if I live long enough."
+    ],
+    "Bleeding_One_Messages": [
+        "I am bleeding.",
+        "I need to bandage this.",
+        "Blood is running down my body.",
+        "This wound needs attention.",
+        "I should remember this if I live long enough."
+    ],
+    "Bleeding_Multiple_Messages": [
+        "I am losing blood fast.",
+        "There is blood everywhere.",
+        "I need to stop the bleeding now.",
+        "I have more than one wound open.",
+        "I should remember this if I live long enough."
+    ],
+    "Bleeding_Critical_Messages": [
+        "I am bleeding out.",
+        "My vision is starting to fade.",
+        "I need bandages immediately.",
+        "If I do not stop this bleeding, I am dead.",
+        "I should remember this if I live long enough."
+    ],
+    "BrokenLegMessages": [
+        "My leg is broken.",
+        "I cannot move properly like this.",
+        "Every step sends pain through my leg.",
+        "I need a splint before I can travel safely.",
+        "Running is not an option now.",
+        "This leg will get me killed if I do not treat it."
+    ],
+    "Infected_Far_Messages": [
+        "I hear infected nearby.",
+        "Something is moving out there.",
+        "I should stay quiet.",
+        "I do not think I am alone.",
+        "I should remember this if I live long enough."
+    ],
+    "Infected_Close_Messages": [
+        "There are infected close.",
+        "I need to watch my noise.",
+        "I can hear them breathing.",
+        "One wrong move and they will hear me.",
+        "I should remember this if I live long enough."
+    ],
+    "Infected_VeryClose_Messages": [
+        "They are right on top of me.",
+        "I need to move carefully.",
+        "I can hear them just outside.",
+        "This place is not safe.",
+        "I should remember this if I live long enough."
+    ],
+    "Infected_Surrounded_Messages": [
+        "There are too many of them.",
+        "I am surrounded.",
+        "I need an escape route.",
+        "If they hear me, this could go bad fast.",
+        "I should remember this if I live long enough."
+    ],
+    "EnableCombinedThoughts": 1,
+    "MaxCombinedThoughtParts": 3,
+    "CombinedThoughtChance": 0.65,
+    "UseExtremeSurvivalMessagesAtStateCount": 4,
+    "UseCriticalSurvivalMessagesAtStateCount": 5,
+    "HungerThirstMessages": [
+        "I need food and water soon.",
+        "My stomach is empty and my mouth is dry.",
+        "I cannot keep moving like this without supplies.",
+        "Hunger and thirst are starting to wear me down.",
+        "I should remember this if I live long enough."
+    ],
+    "HungerColdMessages": [
+        "The hunger is worse in this cold.",
+        "I need food and warmth before my body gives up.",
+        "My stomach is empty and my hands are going numb.",
+        "The cold is biting harder with nothing in my stomach.",
+        "I need calories and heat."
+    ],
+    "HungerInfectedMessages": [
+        "I need food, but the infected are too close.",
+        "My stomach is empty, and I can hear infected nearby.",
+        "I should not search for food with infected this close.",
+        "I need supplies, but I need to stay quiet.",
+        "The hunger is pushing me toward danger."
+    ],
+    "ThirstColdMessages": [
+        "My mouth is dry and my hands are freezing.",
+        "I need water and warmth.",
+        "The cold is slowing me down, and the thirst is getting worse.",
+        "I should find shelter and something safe to drink.",
+        "I cannot ignore thirst just because I am cold."
+    ],
+    "HotThirstMessages": [
+        "The heat and thirst are draining me.",
+        "I need water before this heat gets worse.",
+        "My mouth is dry and my body is overheating.",
+        "I need shade and water soon.",
+        "I should remember this if I live long enough."
+    ],
+    "SickColdMessages": [
+        "The sickness and cold are wearing me down.",
+        "I feel ill, and the cold is making everything worse.",
+        "I need medicine and warmth.",
+        "My body cannot fight sickness and cold forever.",
+        "I should remember this if I live long enough."
+    ],
+    "BleedingInfectedMessages": [
+        "I am bleeding, and the infected are close.",
+        "The blood might draw attention. I need to move.",
+        "I need to stop this bleeding before they find me.",
+        "I cannot fight them like this while I am losing blood.",
+        "I should remember this if I live long enough."
+    ],
+    "HungerColdInfectedMessages": [
+        "My stomach is empty, the cold is biting, and I can hear infected nearby.",
+        "I need food, warmth, and a way out before those infected find me.",
+        "I am hungry, freezing, and not alone out here.",
+        "Every step feels heavier with hunger, cold, and infected close by.",
+        "I should remember this if I live long enough."
+    ],
+    "HungerThirstColdMessages": [
+        "I need food, water, and warmth before my body gives out.",
+        "My stomach is empty, my mouth is dry, and the cold is biting.",
+        "I cannot survive long like this.",
+        "I need shelter and supplies now.",
+        "Every basic need is catching up with me."
+    ],
+    "ExtremeSurvivalMessages": [
+        "Everything is going wrong at once.",
+        "My body is failing, and this place is not safe.",
+        "I need shelter, supplies, and a way out now.",
+        "I cannot keep surviving like this.",
+        "One more mistake could finish me.",
+        "I need to stop, think, and survive the next few minutes.",
+        "My body is screaming for help.",
+        "I am running out of time.",
+        "I need to deal with the worst problem first.",
+        "This is how people die out here."
+    ],
+    "CriticalSurvivalMessages": [
+        "I am falling apart.",
+        "This is bad. Really bad.",
+        "I need to survive the next minute before thinking about anything else.",
+        "Everything hurts, everything is wrong, and I am not safe.",
+        "I am close to the edge.",
+        "I need help, but there is nobody coming.",
+        "My body is giving up.",
+        "I cannot let panic take over.",
+        "Stop the bleeding. Find shelter. Stay alive.",
+        "I do not know how much longer I can keep going."
+    ],
+    "ColdInfectedMessages": [
+        "The cold is making my hands stiff, and I can hear infected nearby.",
+        "I need warmth, but the infected are too close.",
+        "I should not stay here, but I am too cold to think straight.",
+        "The cold is bad enough without infected nearby.",
+        "I should remember this if I live long enough."
+    ],
+    "BleedingColdMessages": [
+        "I am bleeding, and the cold is creeping in.",
+        "My blood is running warm, but everything else feels cold.",
+        "I need to stop the bleeding and get warm.",
+        "The cold makes my hands clumsy while I try to stop the blood.",
+        "I should remember this if I live long enough."
+    ],
+    "SickThirstMessages": [
+        "I feel sick, and thirst is making it worse.",
+        "I need clean water and medicine.",
+        "My stomach turns, and my mouth is dry.",
+        "This sickness is harder to fight without water.",
+        "I should remember this if I live long enough."
+    ],
+    "HungerHotMessages": [
+        "The heat is draining what little strength I have left.",
+        "I am hungry and overheating.",
+        "My body feels weak in this heat.",
+        "I need food, shade, and a moment to breathe.",
+        "The heat makes the hunger feel worse."
+    ],
+    "HungerSickMessages": [
+        "I feel sick, and the hunger is making it worse.",
+        "My stomach is empty, but I do not know if I can keep food down.",
+        "I need food, but my body feels wrong.",
+        "The sickness is eating at me as much as the hunger.",
+        "I need to treat this before I get any weaker."
+    ],
+    "HungerBleedingMessages": [
+        "I am hungry and losing blood. This is bad.",
+        "My body needs food, but first I need to stop the bleeding.",
+        "The blood loss is making the hunger feel worse.",
+        "I cannot recover like this.",
+        "I need to stop bleeding and find food."
+    ],
+    "ThirstBleedingMessages": [
+        "I am losing blood and drying out.",
+        "I need water, but this bleeding comes first.",
+        "My mouth is dry and my wound is still open.",
+        "I cannot keep bleeding like this.",
+        "I need to patch myself up and find water."
+    ],
+    "ThirstInfectedMessages": [
+        "I need water, but the infected are nearby.",
+        "My throat is dry, and I can hear them moving.",
+        "The well is useless if I get caught reaching it.",
+        "I need to stay quiet and find water.",
+        "Thirst is making me careless."
+    ],
+    "HotSickMessages": [
+        "The heat is making this sickness worse.",
+        "I feel feverish and overheated.",
+        "I need shade, water, and medicine.",
+        "My head is pounding from heat and illness.",
+        "I cannot tell if this is fever or the weather."
+    ],
+    "HotBleedingMessages": [
+        "I am bleeding and overheating.",
+        "The heat is making me feel faint.",
+        "I need to stop the bleeding and cool down.",
+        "My vision is swimming in this heat.",
+        "I cannot keep losing blood under this sun."
+    ],
+    "HotInfectedMessages": [
+        "The heat is draining me, and the infected are close.",
+        "I need shade, but I cannot stop here.",
+        "Sweat is running into my eyes, and I can hear them nearby.",
+        "The heat is making every sound feel closer.",
+        "I need to move before they hear me."
+    ],
+    "SickBleedingMessages": [
+        "I am sick and bleeding. My body cannot take much more.",
+        "The wound is open, and I already feel ill.",
+        "I need treatment before this gets worse.",
+        "This sickness will not heal while I am losing blood.",
+        "I need medicine and bandages."
+    ],
+    "SickInfectedMessages": [
+        "I feel sick, and the infected are nearby.",
+        "I can barely focus with them this close.",
+        "I need medicine, but I need to survive this first.",
+        "Every cough could give me away.",
+        "I should not be near infected while I feel this weak."
+    ],
+    "HungerThirstHotMessages": [
+        "I am hungry, thirsty, and overheating.",
+        "The heat is burning through what little strength I have left.",
+        "I need shade, water, and food.",
+        "My body is running on nothing in this heat.",
+        "I cannot keep moving like this."
+    ],
+    "HungerThirstInfectedMessages": [
+        "I need food and water, but the infected are too close.",
+        "My body is empty, and I can hear them nearby.",
+        "I need supplies, but searching now could get me killed.",
+        "Hunger and thirst are pushing me into danger.",
+        "I need to stay quiet and find supplies."
+    ],
+    "ThirstHotInfectedMessages": [
+        "I need water, I am overheating, and the infected are close.",
+        "The heat is drying me out, but I cannot stop here.",
+        "My throat is dry, sweat is in my eyes, and I can hear them nearby.",
+        "I need water, shade, and distance from the infected.",
+        "This heat is making me careless around infected."
+    ],
+    "SickColdInfectedMessages": [
+        "I feel sick, the cold is biting, and infected are nearby.",
+        "I need warmth and medicine, but I cannot stop here.",
+        "My body is weak, my hands are numb, and I can hear them close.",
+        "I need shelter before the sickness and infected finish me.",
+        "Every sound feels closer while I am this weak."
+    ],
+    "BleedingColdInfectedMessages": [
+        "I am bleeding, freezing, and the infected are close.",
+        "My hands are numb, and I need to stop this bleeding now.",
+        "The cold is slowing me down while the infected close in.",
+        "I need shelter, bandages, and a way out.",
+        "If I cannot stop the bleeding, the cold or infected will finish me."
+    ],
+    "BleedingSickInfectedMessages": [
+        "I am sick, bleeding, and the infected are close.",
+        "My body is failing, and I can hear them nearby.",
+        "I need bandages, medicine, and silence.",
+        "I cannot fight like this.",
+        "If they find me now, I am done."
+    ],
+    "BrokenLegHungerMessages": [
+        "My leg is ruined, and I still need food.",
+        "I cannot search properly with this leg and an empty stomach.",
+        "The hunger is bad, but moving on this leg is worse.",
+        "I need food, but every step hurts.",
+        "I should remember this if I live long enough."
+    ],
+    "BrokenLegThirstMessages": [
+        "My leg is broken, and my mouth is dry.",
+        "I need water, but I can barely move.",
+        "The thirst is pushing me forward, but this leg is holding me back.",
+        "I need to find water before crawling becomes impossible.",
+        "I should remember this if I live long enough."
+    ],
+    "BrokenLegColdMessages": [
+        "My leg is broken, and the cold is setting in.",
+        "I need warmth, but moving hurts too much.",
+        "The cold is making this injury feel worse.",
+        "I need shelter before this leg and the cold finish me.",
+        "I should remember this if I live long enough."
+    ],
+    "BrokenLegHotMessages": [
+        "My leg is broken, and the heat is draining me.",
+        "I need shade, but moving is agony.",
+        "The heat makes every painful step worse.",
+        "I cannot keep dragging myself through this heat.",
+        "I should remember this if I live long enough."
+    ],
+    "BrokenLegSickMessages": [
+        "I feel sick, and my leg is ruined.",
+        "My body is weak, and I can barely move.",
+        "I need medicine and something for this leg.",
+        "This sickness and injury are wearing me down together.",
+        "I should remember this if I live long enough."
+    ],
+    "BrokenLegBleedingMessages": [
+        "My leg is broken, and I am bleeding.",
+        "I need to stop the bleeding before I worry about moving.",
+        "I cannot run, and I am losing blood.",
+        "This injury is bad enough without blood loss.",
+        "I should remember this if I live long enough."
+    ],
+    "BrokenLegInfectedMessages": [
+        "My leg is broken, and infected are nearby.",
+        "I cannot run from them like this.",
+        "I need to stay quiet. I will not outrun them.",
+        "If they hear me now, this leg will get me killed.",
+        "I should remember this if I live long enough."
+    ],
+    "BrokenLegColdInfectedMessages": [
+        "My leg is broken, the cold is biting, and infected are nearby.",
+        "I need warmth and silence, but I can barely move.",
+        "I cannot run, my hands are numb, and I can hear them close.",
+        "The cold and infected are closing in while this leg slows me down.",
+        "I should remember this if I live long enough."
+    ],
+    "BrokenLegBleedingInfectedMessages": [
+        "My leg is broken, I am bleeding, and infected are close.",
+        "I cannot run, and the blood will not stop.",
+        "I need bandages and silence before they find me.",
+        "If they come now, I cannot get away.",
+        "I should remember this if I live long enough."
+    ],
+    "BrokenLegHungerThirstMessages": [
+        "My leg is broken, my stomach is empty, and my mouth is dry.",
+        "I need supplies, but moving is almost impossible.",
+        "Food and water mean nothing if I cannot reach them.",
+        "I need to treat this leg before hunger and thirst finish me.",
+        "I should remember this if I live long enough."
+    ],
+    "StarvingToDeathMessages": [
+        "I am starving to death.",
+        "My body is eating itself, and my health is dropping.",
+        "I need food now or this is the end.",
+        "The hunger has gone past pain. I am dying.",
+        "I should remember this if I live long enough."
+    ],
+    "DehydratingToDeathMessages": [
+        "I am dying of thirst.",
+        "My body is shutting down without water.",
+        "I need water now or I will not make it.",
+        "My mouth is dry, my head is spinning, and my health is dropping.",
+        "I should remember this if I live long enough."
+    ],
+    "FreezingToDeathMessages": [
+        "I am freezing to death.",
+        "The cold is taking my health now.",
+        "I need fire or shelter immediately.",
+        "My body is shutting down from the cold.",
+        "I should remember this if I live long enough."
+    ],
+    "OverheatingToDeathMessages": [
+        "I am overheating to death.",
+        "The heat is taking my health now.",
+        "I need shade and water immediately.",
+        "My body cannot survive this heat much longer.",
+        "I should remember this if I live long enough."
+    ],
+    "EnableAdvancedCombinedMessages": 1,
+    "AdvancedCombinedChance": 0.65,
+    "StarvingDehydratedMessages": [
+        "My stomach is turning against me.",
+        "I need food before my strength goes.",
+        "Every step costs more than I have.",
+        "I cannot run on nothing much longer.",
+        "I should remember this if I live long enough."
+    ],
+    "StarvingLowBloodMessages": [
+        "My stomach is turning against me.",
+        "I need food before my strength goes.",
+        "Every step costs more than I have.",
+        "I cannot run on nothing much longer.",
+        "I should remember this if I live long enough."
+    ],
+    "DehydratedLowBloodMessages": [
+        "My mouth is too dry.",
+        "I need water soon.",
+        "Dehydration is starting to slow my thoughts.",
+        "I have to find something safe to drink.",
+        "I should remember this if I live long enough."
+    ],
+    "ColdWetMessages": [
+        "The cold is getting into my bones.",
+        "I need warmth before this gets worse.",
+        "My fingers are stiff.",
+        "Shelter and heat. That is all that matters.",
+        "I should remember this if I live long enough."
+    ],
+    "ColdWetNightMessages": [
+        "The cold is getting into my bones.",
+        "I need warmth before this gets worse.",
+        "My fingers are stiff.",
+        "Shelter and heat. That is all that matters.",
+        "I should remember this if I live long enough."
+    ],
+    "ColdWetSickMessages": [
+        "The cold is getting into my bones.",
+        "I need warmth before this gets worse.",
+        "My fingers are stiff.",
+        "Shelter and heat. That is all that matters.",
+        "I should remember this if I live long enough."
+    ],
+    "HotDehydratedMessages": [
+        "My mouth is too dry.",
+        "I need water soon.",
+        "Dehydration is starting to slow my thoughts.",
+        "I have to find something safe to drink.",
+        "I should remember this if I live long enough."
+    ],
+    "BleedingLowBloodMessages": [
+        "I am losing blood.",
+        "I need to stop this before it gets worse.",
+        "Warmth is leaving with every drop.",
+        "Pressure first. Panic later.",
+        "I should remember this if I live long enough."
+    ],
+    "BleedingShockMessages": [
+        "I am losing blood.",
+        "I need to stop this before it gets worse.",
+        "Warmth is leaving with every drop.",
+        "Pressure first. Panic later.",
+        "I should remember this if I live long enough."
+    ],
+    "GunshotBleedingMessages": [
+        "I am losing blood.",
+        "I need to stop this before it gets worse.",
+        "Warmth is leaving with every drop.",
+        "Pressure first. Panic later.",
+        "I should remember this if I live long enough."
+    ],
+    "ExplosionShockMessages": [
+        "That was too close.",
+        "Move. Breathe. Find cover.",
+        "My hands are shaking.",
+        "I need to stay alive for the next few seconds.",
+        "I should remember this if I live long enough."
+    ],
+    "BrokenLegNightMessages": [
+        "The dark makes every sound feel closer.",
+        "I cannot see far enough to feel safe.",
+        "Night belongs to whoever moves quietly.",
+        "I should slow down and listen.",
+        "I should remember this if I live long enough."
+    ],
+    "LowBloodCorpseMessages": [
+        "I am losing blood.",
+        "I need to stop this before it gets worse.",
+        "Warmth is leaving with every drop.",
+        "Pressure first. Panic later.",
+        "I should remember this if I live long enough."
+    ],
+    "SickContaminatedMessages": [
+        "Something is wrong inside me.",
+        "I need medicine before this gets worse.",
+        "My body is fighting and losing ground.",
+        "This sickness is stealing my strength.",
+        "I should remember this if I live long enough."
+    ],
+    "NightRainMessages": [
+        "The weather is wearing me down.",
+        "This makes every sound harder to trust.",
+        "I need to get out of this weather.",
+        "Bad weather hides bad decisions.",
+        "I should remember this if I live long enough."
+    ],
+    "NightFogMessages": [
+        "The weather is wearing me down.",
+        "This makes every sound harder to trust.",
+        "I need to get out of this weather.",
+        "Bad weather hides bad decisions.",
+        "I should remember this if I live long enough."
+    ],
+    "MilitaryGunshotMessages": [
+        "That was too close.",
+        "Move. Breathe. Find cover.",
+        "My hands are shaking.",
+        "I need to stay alive for the next few seconds.",
+        "I should remember this if I live long enough."
+    ],
+    "MilitaryCorpseMessages": [
+        "Someone died here.",
+        "Bodies mean danger came through already.",
+        "I should not stay near this.",
+        "Where there is one corpse, there may be another.",
+        "I should remember this if I live long enough."
+    ],
+    "LoneWolfNightMessages": [
+        "I have not seen anyone friendly in too long.",
+        "The silence is starting to feel normal.",
+        "No voices. No footsteps. Just me.",
+        "Being alone keeps me alive, but it wears me down.",
+        "I should remember this if I live long enough."
+    ],
+    "LowSanityCannibalismMessages": [
+        "I keep hearing things that are not there.",
+        "Every bad choice feels easier than the last.",
+        "I am still in control. I have to be.",
+        "The silence is starting to answer back.",
+        "I should remember this if I live long enough."
+    ],
+    "LowSanityCorpseMessages": [
+        "I keep hearing things that are not there.",
+        "Every bad choice feels easier than the last.",
+        "I am still in control. I have to be.",
+        "The silence is starting to answer back.",
+        "I should remember this if I live long enough."
+    ],
+    "LowSanityNightMessages": [
+        "I keep hearing things that are not there.",
+        "Every bad choice feels easier than the last.",
+        "I am still in control. I have to be.",
+        "The silence is starting to answer back.",
+        "I should remember this if I live long enough."
+    ],
+    "CompanionDeadLowSanityMessages": [
+        "They are gone. I am alone now.",
+        "I should have been faster.",
+        "Their silence feels heavier than the gunshot.",
+        "I have to keep moving, even without them.",
+        "I should remember this if I live long enough."
+    ],
+    "EnableExpandedAdvancedCombos": 1,
+    "StarvingDehydratedColdMessages": [
+        "My stomach is turning against me.",
+        "I need food before my strength goes.",
+        "Every step costs more than I have.",
+        "I cannot run on nothing much longer.",
+        "I should remember this if I live long enough."
+    ],
+    "HotDehydratedSickMessages": [
+        "My mouth is too dry.",
+        "I need water soon.",
+        "Dehydration is starting to slow my thoughts.",
+        "I have to find something safe to drink.",
+        "I should remember this if I live long enough."
+    ],
+    "BleedingLowBloodShockMessages": [
+        "I am losing blood.",
+        "I need to stop this before it gets worse.",
+        "Warmth is leaving with every drop.",
+        "Pressure first. Panic later.",
+        "I should remember this if I live long enough."
+    ],
+    "GunshotBleedingLowBloodMessages": [
+        "I am losing blood.",
+        "I need to stop this before it gets worse.",
+        "Warmth is leaving with every drop.",
+        "Pressure first. Panic later.",
+        "I should remember this if I live long enough."
+    ],
+    "NightInfectedRainMessages": [
+        "The weather is wearing me down.",
+        "This makes every sound harder to trust.",
+        "I need to get out of this weather.",
+        "Bad weather hides bad decisions.",
+        "I should remember this if I live long enough."
+    ],
+    "MilitaryNightStormMessages": [
+        "The weather is wearing me down.",
+        "This makes every sound harder to trust.",
+        "I need to get out of this weather.",
+        "Bad weather hides bad decisions.",
+        "I should remember this if I live long enough."
+    ],
+    "LoneWolfLowSanityNightMessages": [
+        "I have not seen anyone friendly in too long.",
+        "The silence is starting to feel normal.",
+        "No voices. No footsteps. Just me.",
+        "Being alone keeps me alive, but it wears me down.",
+        "I should remember this if I live long enough."
+    ],
+    "CompanionDeadNightMessages": [
+        "They are gone. I am alone now.",
+        "I should have been faster.",
+        "Their silence feels heavier than the gunshot.",
+        "I have to keep moving, even without them.",
+        "I should remember this if I live long enough."
+    ],
+    "CorpseLowSanityNightMessages": [
+        "I keep hearing things that are not there.",
+        "Every bad choice feels easier than the last.",
+        "I am still in control. I have to be.",
+        "The silence is starting to answer back.",
+        "I should remember this if I live long enough."
+    ],
+    "ShelterNightInfectedMessages": [
+        "The dark makes every sound feel closer.",
+        "I cannot see far enough to feel safe.",
+        "Night belongs to whoever moves quietly.",
+        "I should slow down and listen.",
+        "I should remember this if I live long enough."
+    ],
+    "EnableRecoveryMessages": 1,
+    "RecoveryThoughtCooldownSeconds": 180,
+    "RecoveryThoughtChance": 0.4,
+    "BleedingRecoveryMessages": [
+        "I am losing blood.",
+        "I need to stop this before it gets worse.",
+        "Warmth is leaving with every drop.",
+        "Pressure first. Panic later.",
+        "I should remember this if I live long enough."
+    ],
+    "HealthStableRecoveryMessages": [
+        "I am not safe, but I am still here.",
+        "That could have ended worse.",
+        "My breathing is starting to settle.",
+        "One crisis is over. The next one can wait.",
+        "I should remember this if I live long enough."
+    ],
+    "FoodRecoveryMessages": [
+        "My stomach is turning against me.",
+        "I need food before my strength goes.",
+        "Every step costs more than I have.",
+        "I cannot run on nothing much longer.",
+        "I should remember this if I live long enough."
+    ],
+    "WaterRecoveryMessages": [
+        "I am not safe, but I am still here.",
+        "That could have ended worse.",
+        "My breathing is starting to settle.",
+        "One crisis is over. The next one can wait.",
+        "I should remember this if I live long enough."
+    ],
+    "WarmedUpMessages": [
+        "The cold is getting into my bones.",
+        "I need warmth before this gets worse.",
+        "My fingers are stiff.",
+        "Shelter and heat. That is all that matters.",
+        "I should remember this if I live long enough."
+    ],
+    "CooledDownMessages": [
+        "The heat is draining me.",
+        "I need shade or water.",
+        "My head feels heavy.",
+        "I am overheating out here.",
+        "I should remember this if I live long enough."
+    ],
+    "DryingOffMessages": [
+        "This drying off is getting to me.",
+        "I need to pay attention to this drying off.",
+        "Something about this drying off feels wrong.",
+        "I should not ignore this drying off.",
+        "I should remember this if I live long enough."
+    ],
+    "LeftContaminatedZoneMessages": [
+        "The air is wrong here.",
+        "I need to check my protection.",
+        "This place is not safe to breathe.",
+        "I should not stay in this contamination.",
+        "I should remember this if I live long enough."
+    ],
+    "EscapedInfectedMessages": [
+        "Infected are too close.",
+        "I need to move quietly.",
+        "One wrong noise and they will be on me.",
+        "I can hear them nearby.",
+        "I should remember this if I live long enough."
+    ],
+    "DawnSurvivalMessages": [
+        "I am not safe, but I am still here.",
+        "That could have ended worse.",
+        "My breathing is starting to settle.",
+        "One crisis is over. The next one can wait.",
+        "I should remember this if I live long enough."
+    ],
+    "ShelterFromStormMessages": [
+        "The weather is wearing me down.",
+        "This makes every sound harder to trust.",
+        "I need to get out of this weather.",
+        "Bad weather hides bad decisions.",
+        "I should remember this if I live long enough."
+    ],
+    "ShockRecoveryMessages": [
+        "That was too close.",
+        "Move. Breathe. Find cover.",
+        "My hands are shaking.",
+        "I need to stay alive for the next few seconds.",
+        "I should remember this if I live long enough."
+    ],
+    "BloodStabilizingMessages": [
+        "I am losing blood.",
+        "I need to stop this before it gets worse.",
+        "Warmth is leaving with every drop.",
+        "Pressure first. Panic later.",
+        "I should remember this if I live long enough."
+    ],
+    "AlmostDiedRecoveryMessages": [
+        "I am not safe, but I am still here.",
+        "That could have ended worse.",
+        "My breathing is starting to settle.",
+        "One crisis is over. The next one can wait.",
+        "I should remember this if I live long enough."
+    ],
+    "SafeShelterRecoveryMessages": [
+        "Four walls do not mean safe.",
+        "Shelter helps, but exits matter.",
+        "I should check the corners first.",
+        "This place could keep me alive for a while.",
+        "I should remember this if I live long enough."
+    ],
+    "PostCombatBreathMessages": [
+        "That was too close.",
+        "Move. Breathe. Find cover.",
+        "My hands are shaking.",
+        "I need to stay alive for the next few seconds.",
+        "I should remember this if I live long enough."
+    ],
+    "EnableDiseaseSpecificMessages": 1,
+    "DiseaseWoundInfectionMessages": [
+        "Something is wrong inside me.",
+        "I need medicine before this gets worse.",
+        "My body is fighting and losing ground.",
+        "This sickness is stealing my strength.",
+        "I should remember this if I live long enough."
+    ],
+    "DiseaseCholeraMessages": [
+        "Something is wrong inside me.",
+        "I need medicine before this gets worse.",
+        "My body is fighting and losing ground.",
+        "This sickness is stealing my strength.",
+        "I should remember this if I live long enough."
+    ],
+    "DiseaseInfluenzaMessages": [
+        "Something is wrong inside me.",
+        "I need medicine before this gets worse.",
+        "My body is fighting and losing ground.",
+        "This sickness is stealing my strength.",
+        "I should remember this if I live long enough."
+    ],
+    "DiseaseKuruMessages": [
+        "That was a person. I know that.",
+        "There are hungers that should stay empty.",
+        "I crossed something I cannot uncross.",
+        "The worst part is that it helped.",
+        "I should remember this if I live long enough."
+    ],
+    "DiseaseChemicalMessages": [
+        "Something is wrong inside me.",
+        "I need medicine before this gets worse.",
+        "My body is fighting and losing ground.",
+        "This sickness is stealing my strength.",
+        "I should remember this if I live long enough."
+    ],
+    "DiseaseUnknownMessages": [
+        "Something is wrong inside me.",
+        "I need medicine before this gets worse.",
+        "My body is fighting and losing ground.",
+        "This sickness is stealing my strength.",
+        "I should remember this if I live long enough."
+    ],
+    "DiseaseGasExposureMessages": [
+        "Something is wrong inside me.",
+        "I need medicine before this gets worse.",
+        "My body is fighting and losing ground.",
+        "This sickness is stealing my strength.",
+        "I should remember this if I live long enough."
+    ],
+    "DiseaseFeverMessages": [
+        "Something is wrong inside me.",
+        "I need medicine before this gets worse.",
+        "My body is fighting and losing ground.",
+        "This sickness is stealing my strength.",
+        "I should remember this if I live long enough."
+    ],
+    "DiseaseFoodPoisoningMessages": [
+        "My stomach is turning against me.",
+        "I need food before my strength goes.",
+        "Every step costs more than I have.",
+        "I cannot run on nothing much longer.",
+        "I should remember this if I live long enough."
+    ]
+}
