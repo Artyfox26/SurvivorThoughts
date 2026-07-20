@@ -1,0 +1,9 @@
+name = "Survivor Thoughts";
+picture = "";
+logo = "";
+logoSmall = "";
+tooltip = "Survivor Thoughts";
+overview = "Vanilla+ internal survivor dialogue for hunger, thirst, temperature, sickness, bleeding, and nearby infected.";
+action = "";
+author = "Artyfox";
+version = "0.3.7";
